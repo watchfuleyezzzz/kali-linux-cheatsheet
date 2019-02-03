@@ -305,7 +305,7 @@ samrdump.py SNMP 192.168.X.XXX</td>
 <p>Massive wordlist here at <a href="https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/" target="_blank">g0tm1lk’s blog</a></p>
 <h2>Brute Forcing Services</h2>
 <h3>Hydra FTP Brute Force</h3>
-<p>Hydra is a parallelized login cracker which supports numerous protocols to attack. It is very fast and flexible, and new modules are easy to add. This tool makes it possible for researchers and security consultants to show how easy it would be to gain unauthorized access to a system remotely. On Ubuntu it can be installed from the synaptic package manager. On Kali Linux, it is per-installed.</p>
+<p>Hydra is a parallelized login cracker which supports numerous protocols to attack. It's very fast and flexible, and new modules are easy to add. This tool makes it possible for researchers and security consultants to show how easy it would be to gain unauthorized access to a system remotely. On Ubuntu it can be installed from the synaptic package manager. On Kali Linux, it is per-installed.</p>
 <table>
 <thead>
 <tr>
